@@ -15,14 +15,19 @@ Program, bir tkinter GUI (Graphical User Interface) kullanarak kullanıcı giri�
 ```bash
 git clone https://github.com/kullanici_adi/gelistirilebilir_yapay_zeka.git
 cd gelistirilebilir_yapay_zeka
+```
 
 2. Python yüklü değilse, [Python'un resmi web sitesinden Python'u indirin](https://www.python.org/downloads/) ve yükleyin.
 
 3. Gerekli bağımlılıkları yükleyin:
+```bash
 pip install tkinter
+```
 
-4. Projeyi çalıştırın:
+5. Projeyi çalıştırın:
+```bash
 python ai.py
+```
 
 ## Lisans
 
